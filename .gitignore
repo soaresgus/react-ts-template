@@ -10,7 +10,6 @@ lerna-debug.log*
 node_modules
 dist
 dist-ssr
-*.local
 
 # Editor directories and files
 .vscode/*
@@ -23,4 +22,5 @@ dist-ssr
 *.sln
 *.sw?
 
-#.env.local Descomment this in production
+#Descomment this in production
+#*.local
